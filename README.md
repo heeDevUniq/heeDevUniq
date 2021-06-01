@@ -1,16 +1,14 @@
-### Hi there 👋
+👋 Hi, there!
 
-<!--
-**heehee59/heehee59** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🙋‍♀️ Basic Info
+Heekyeong Eom
+1993. 7. 2
+INFJ
 
-Here are some ideas to get you started:
+📌 Technical Stack
+Front : HTML5, CSS3, JS, jQuery
+Back : Java, Python, Spring, Spring Boot
+DB : OracleDB, MySQL, MariaDB
+Devops : Linux Server, Github
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💾 .
