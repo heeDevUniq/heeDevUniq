@@ -6,7 +6,7 @@ Heekyeong Eom<br>
 INFJ<br>
 <br>
 📌 <b>Technical Stack</b><br>
-Front : HTML5, CSS3, JS, jQuery<br>
-Back : Java, Python, Spring, Spring Boot<br>
-DB : OracleDB, MySQL, MariaDB<br>
-Devops : Linux Server, Github<br>
+<span style="font-weight:bold; color:#dddddd;">Front :</span> HTML5, CSS3, JS, jQuery<br>
+<span style="font-weight:bold; color:#dddddd;">Back :</span>  Java, Python, Spring, Spring Boot<br>
+<span style="font-weight:bold; color:#dddddd;">DB :</span>  OracleDB, MySQL, MariaDB<br>
+<span style="font-weight:bold; color:#dddddd;">Devops :</span>  Linux Server, Github<br>
