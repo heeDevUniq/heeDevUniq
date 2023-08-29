@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&customColorList=0,2,2,5,30&text=Welcome&nbsp;to&nbsp;be&nbsp;here!&fontColor=EDF0F5&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&customColorList=0,2,2,5,30&text=Welcome&nbsp;here!&fontColor=EDF0F5&animation=fadeIn)
 
 Hi, there! 🙋‍♀️<br/><br/>
 🌱I'm Heeyeon Eom, Web Developer who follow the <b>IDEAL CODE</b>, base in Korea Republic. <br/>
