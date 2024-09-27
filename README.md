@@ -1,10 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&customColorList=0,2,2,5,30&text=Welcome&nbsp;here!&fontColor=EDF0F5&animation=fadeIn)
 
 Hi, there! 🙋‍♀️<br/><br/>
-🌱I'm Heeyeon Eom, Web Developer who persue the <b>IDEAL CODE</b>, base in Korea Republic. <br/>
-💃 I enjoy dancing like Salsa, Bachata.<br/>
-🌷 I always look for interesting ✌️Dev✌️ subject.<br/>
-🧊 I'm constructing my github space.<br/>
+🌱 I'm Heeyeon Eom, Web Developer Who Pursue the <b>IDEAL CODE</b>, base in Korea Republic. <br/>
+💃 I'm Working in IT Technology Field Regarding Construction Industry.<br/>
+🌷 I always Look for Interesting ✌️Dev✌️ Subject.<br/>
+🧊 I'm Constructing My Github Space.<br/>
 <br/>
 
 📌 Tech Stacks <br/><br/>
