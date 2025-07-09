@@ -1,7 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=D4F4FA&fontColor=00D8FF&height=300&section=header&text=Heeyeon%20Eom&fontSize=90)
 
 🖥️ **Backend**  
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=coffeescript&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring&logoColor=white) ![WebFlux](https://img.shields.io/badge/WebFlux-6DB33F?style=flat&logo=spring&logoColor=white) ![MyBatis](https://img.shields.io/badge/MyBatis-000000?style=flat&logo=mybatis&logoColor=white) ![JPA](https://img.shields.io/badge/JPA-589636?style=flat) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=coffeescript&logoColor=white)
+![Spring Framework](https://img.shields.io/badge/Spring%20Framework-6DB33F?style=flat&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![WebFlux](https://img.shields.io/badge/WebFlux-6DB33F?style=flat&logo=spring&logoColor=white)
+![MyBatis](https://img.shields.io/badge/MyBatis-000000?style=flat&logo=mybatis&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-589636?style=flat)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)
 
 🎨 **Frontend**  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
