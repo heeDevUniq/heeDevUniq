@@ -2,7 +2,6 @@
 
 ### 👋 Meet Heeyeon Eom : A Web Developer Who Strives to Write Thoughtful and Effective Code.  
 ✔️ I aim to write code that is not just functional, but readable, efficient, and scalable.  
-✔️ With a strong sense of dedication, I consistently carry out tasks without fluctuations in performance.  
 ✔️ I'm driven by curiosity and a spirit of adventure, unafraid of challenges and always eager to explore new ideas.  
 ✔️ My experience in other fields has sharpened my communication skills, allowing me to collaborate effectively with teams beyond development.  
 
