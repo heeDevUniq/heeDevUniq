@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=D4F4FA&fontColor=00D8FF&height=300&section=header&text=Heeyeon%20Eom&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=venom&color=FFA7A7&fontColor=ffffff&height=300&section=header&text=Heeyeon%20Eom&fontSize=90)
 
 ### 👋 Heeyeon Eom : A Java Developer Who Strives to Write Thoughtful and Effective Code
 
